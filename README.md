@@ -2,7 +2,7 @@
 
 
 
-# How to install the Mu Editor
+# How to install the Mu editor
 
 Mu is a simple editor for writing and running Python programs. Follow these [TBC] easy steps to install Mu on your computer and write your first program.
 
